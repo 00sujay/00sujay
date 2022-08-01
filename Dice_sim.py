@@ -42,11 +42,3 @@ while x=="y":
     print("\n")
     if x=="n":
         print("Thank you for playing!!!")
-
-echo "# 00sujay" >> README.md
-git init
-git add A
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/00sujay/00sujay.git
-git push -u origin main
